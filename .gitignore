@@ -1,0 +1,4 @@
+/node_modules
+.env
+atlasPass.txt
+.now.json
